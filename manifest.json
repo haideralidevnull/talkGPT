@@ -1,20 +1,22 @@
 {
-  "id": "dev.replugged.PluginTemplate",
-  "name": "Plugin Template",
-  "description": "A plugin template",
+  "id": "dev.yetanother.TalkGPT",
+  "name": "TalkGPT",
+  "description": "Let chatGPT foramt the responses for you",
   "author": {
-    "name": "replugged",
+    "name": "neo",
     "discordID": "1000992611840049192",
-    "github": "replugged-org"
+    "github": "-org"
   },
-  "version": "1.0.0",
+  "version": "0.0.1",
   "updater": {
     "type": "github",
-    "id": "replugged-org/plugin-template"
+    "id": "neo-devnull/"
   },
   "license": "MIT",
   "type": "replugged-plugin",
   "renderer": "src/index.ts",
-  "source": "https://github.com/replugged-org/plugin-template",
-  "image": ["https://i.imgur.com/14CNs3a.png?CHANGE-THIS-URL"]
+  "source": "https://github.com/neo-devnull/talkGPT",
+  "image": [
+    "https://i.imgur.com/14CNs3a.png?CHANGE-THIS-URL"
+  ]
 }
